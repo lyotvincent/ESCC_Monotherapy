@@ -22,6 +22,7 @@ The repository is organized as follows:
 
 - **`table/`**: Contains tabular data (e.g., statistical results, gene lists) generated automatically during the execution of the figure-generation scripts.
 
+- **`FJTLS_Code/`**: Code for multicolor analysis in Fig. 2g
 ## 📊 Data Access & Annotation Usage
 
 To reproduce the analysis with the original patient data:
